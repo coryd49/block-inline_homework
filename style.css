@@ -1,0 +1,34 @@
+/* Put your CSS rules here: */
+.creepy_picture {
+	border: 10px solid blue;
+	padding: 10px 10px 0 0;
+	
+}
+.picture_container {
+	background-color: black;
+}
+.bold {
+	font-weight: bold;
+}
+.bold_italic {
+	font-weight: bold;
+	font-style: italic;
+}
+.bold_italic_underlined {
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+.div_list {
+	background-color: white;
+	height: 10px;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+}
+
+
+
+/* These are for the exercise, please don't edit them! */
+html,body{margin:0;padding:0;}
+body{font-family:sans-serif;}
+.content{width:980px;padding:10px;}
